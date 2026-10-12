@@ -35,6 +35,7 @@ AI-Interview-Preparation-Assistant/
 ├── README.md
 
 ├── assets/
+
    └── screenshots/
 
 
