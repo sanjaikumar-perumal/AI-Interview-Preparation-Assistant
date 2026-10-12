@@ -36,7 +36,7 @@ AI-Interview-Preparation-Assistant/
 
 ├── assets/
    
-     └── screenshots/
+   └── screenshots/
 
 
 ## ⚙️ Installation and Setup
