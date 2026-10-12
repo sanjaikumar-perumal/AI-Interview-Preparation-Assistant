@@ -22,7 +22,7 @@ An AI-powered interview preparation application built using **Python, Streamlit,
 
 ## 📂 Project Structure
 
-AI-Interview-Preparation-Assistant
+AI-Interview-Preparation-Assistant/
 ├── app.py
 ├── requirements.txt
 ├── .env.example
