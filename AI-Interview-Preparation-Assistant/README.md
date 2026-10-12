@@ -35,8 +35,8 @@ AI-Interview-Preparation-Assistant/
 ├── README.md
 
 ├── assets/
-
-        └── screenshots/
+ 
+   └── screenshots/
 
 
 ## ⚙️ Installation and Setup
